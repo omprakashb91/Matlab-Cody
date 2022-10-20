@@ -1,5 +1,5 @@
 # Matlab-Cody
-<Basics on Vecotrs>
+## Basics on Vecotrs
 Solutions for the Matlab cody under various topics as listed below
 1. Introduction to Matlab
 2. Basics on PI
