@@ -1,0 +1,13 @@
+% Problem 23
+% Finding Perfect Squares
+function b = isItSquared(a)
+b=false;
+for x=1:1:numel(a)
+    for y=1:1:numel(a)
+        if a(x)== power(a(y),2)
+            b=true;
+        end
+    end
+end
+
+end
