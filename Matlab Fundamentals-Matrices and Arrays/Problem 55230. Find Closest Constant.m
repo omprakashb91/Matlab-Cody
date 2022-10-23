@@ -9,6 +9,7 @@ d = abs( x - r )
 cc=r(I)
 end
 
+% alternate method
 % Method-2
 %function cc = closestconst(x)
 %r= [0 1 sqrt(2) exp(1) pi (2*pi)];
